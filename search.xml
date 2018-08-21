@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[pic]]></title>
-    <url>%2F2018%2F08%2F21%2Fpic%2F</url>
-    <content type="text"><![CDATA[第一部分： 一、在文章中插入本地图片： post_asset_folder false 1.修改_config.yml配置文件post_asset_folder项为true。2.hexo new text3.上传图片至_posts/text4.在文章中编辑： text为md文件目录 二、插入网络图片： 三、图床推荐https://sm.ms/，自动转为jpg格式. 第二部分：总结： 两个要点： or aaa为md文件目录]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>pic</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[text]]></title>
     <url>%2F2018%2F08%2F21%2Ftext%2F</url>
     <content type="text"><![CDATA[a aa a]]></content>
@@ -22,6 +11,17 @@
       <tags>
         <tag>pic</tag>
         <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[pic]]></title>
+    <url>%2F2018%2F08%2F21%2Fpic%2F</url>
+    <content type="text"><![CDATA[第一部分： 一、在文章中插入本地图片： post_asset_folder false 1.修改_config.yml配置文件post_asset_folder项为true。2.hexo new text3.上传图片至_posts/text4.在文章中编辑： text为md文件目录 二、插入网络图片： 三、图床推荐https://sm.ms/，自动转为jpg格式. 第二部分：总结： 两个要点： or aaa为md文件目录]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>pic</tag>
       </tags>
   </entry>
   <entry>
