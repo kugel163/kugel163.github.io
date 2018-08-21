@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[pic]]></title>
+    <url>%2F2018%2F08%2F21%2Fpic%2F</url>
+    <content type="text"><![CDATA[第一部分： 一、在文章中插入本地图片： post_asset_folder false 1.修改_config.yml配置文件post_asset_folder项为true。2.hexo new text3.上传图片至_posts/text4.在文章中编辑： text为md文件目录 二、插入网络图片： 三、图床推荐https://sm.ms/，自动转为jpg格式. 第二部分：总结： 两个要点： or aaa为md文件目录]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>pic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[tuchuang]]></title>
+    <url>%2F2018%2F08%2F21%2Ftuchuang%2F</url>
+    <content type="text"><![CDATA[![5b794745bdd7c] (https://i.loli.net/2018/08/19/5b794745bdd7c.png) 1.七牛云（推荐）官网地址：https://portal.qiniu.com 2.postimg官网地址：https://postimages.org 3.SM.MS（推荐）官网地址：https://sm.ms/ 4.堆爱外链官网地址：http://pan.duiai.cc/ 5.极简图床（推荐）官网地址：http://jiantuku.com 6.路过图床官网地址：https://imgchr.com/ 7.爱信息图床官网地址：https://tu.aixinxi.net 8.偶流社区图床官网地址：https://upload.ouliu.net/ 9.偶流社区图床小贱贱图床官网地址：http://pic.xiaojianjian.net/ 10.综合来看推荐使用七牛云、SM.MS和极简图床，请自行测试 图床工具： MPic-图床神器：http://mpic.lzhaofu.cn/ https://www.jianshu.com/p/718173c339ee]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>pic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[tags]]></title>
+    <url>%2F2018%2F08%2F21%2Ftags%2F</url>
+    <content type="text"><![CDATA[分类与标签： 1、创建“分类”选项 生成“分类”页并添加tpye属性打开命令行，进入博客所在文件夹。执行命令 hexo new page categories 修改index文件 添加type: “categories”到内容中，添加后是这样的：title: 文章分类date: 2017-05-27 13:47:40 type: “categories”2.创建“标签”选项 生成“标签”页并添加tpye属性打开命令行，进入博客所在文件夹。执行命令hexo new page tags 修改index文件 添加type: “tags”到内容中，添加后是这样的： title: 文章分类date: 2017-05-27 13:47:40 type: “tags”3.给文章添加分类与标签属性。 title:data:categories: linuxtags: tags name1 tags name2 参考:https://www.jianshu.com/p/e17711e44e00]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>categories and tags</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F08%2F21%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
