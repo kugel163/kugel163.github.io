@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试 tags]]></title>
-    <url>%2F2018%2F08%2F22%2Ftext_tags%2F</url>
-    <content type="text"><![CDATA[b bb b]]></content>
-      <categories>
-        <category>linux</category>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>dowble</tag>
-        <tag>two</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[text]]></title>
     <url>%2F2018%2F08%2F21%2Ftext%2F</url>
     <content type="text"><![CDATA[a aa a]]></content>
@@ -35,6 +22,17 @@
       </categories>
       <tags>
         <tag>pic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[pic text 居中 左侧 右侧]]></title>
+    <url>%2F2018%2F08%2F21%2Fpic_text%2F</url>
+    <content type="text"><![CDATA[aaa aaa aaa aaa]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>pic text</tag>
       </tags>
   </entry>
   <entry>
