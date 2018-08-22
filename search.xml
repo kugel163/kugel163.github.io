@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[pic heng2]]></title>
+    <url>%2F2018%2F08%2F22%2Fpic_man22%2F</url>
+    <content type="text"><![CDATA[aaa bbb]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>pic text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[pic 横向宽度]]></title>
     <url>%2F2018%2F08%2F22%2Fpic_man2%2F</url>
     <content type="text"><![CDATA[aaa bbb]]></content>
