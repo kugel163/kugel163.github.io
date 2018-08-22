@@ -12,6 +12,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[pic 800*200 and 900*200 and 颜色 字体 大小]]></title>
+    <url>%2F2018%2F08%2F22%2Fpic_800900color%2F</url>
+    <content type="text"><![CDATA[800*200 900*200 这里是文字color=#0099ff size=72 face=”黑体”这里是文字 颜色 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. bbb]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>pic 尺寸 文字 颜色 字体 大小</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[text]]></title>
     <url>%2F2018%2F08%2F21%2Ftext%2F</url>
     <content type="text"><![CDATA[a aa a]]></content>
