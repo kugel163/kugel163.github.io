@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[pic heng2]]></title>
-    <url>%2F2018%2F08%2F22%2Fpic_800200%2F</url>
-    <content type="text"><![CDATA[aaa bbb aaa dfdgdgggggggggggggggggggggggggggggggggggggggggggggggggggggg bbb]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>pic text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[pic heng2]]></title>
-    <url>%2F2018%2F08%2F22%2Fpic_man22%2F</url>
-    <content type="text"><![CDATA[aaa bbb]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>pic text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[pic 横向宽度]]></title>
-    <url>%2F2018%2F08%2F22%2Fpic_man2%2F</url>
-    <content type="text"><![CDATA[aaa bbb]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>pic text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[pic 横向宽度]]></title>
-    <url>%2F2018%2F08%2F22%2Fpic%E6%A8%AA%E5%90%91%E5%AE%BD%E5%BA%A6%2F</url>
-    <content type="text"><![CDATA[aaa bbb]]></content>
+    <title><![CDATA[pic 800*200]]></title>
+    <url>%2F2018%2F08%2F22%2Fpic_8002002%2F</url>
+    <content type="text"><![CDATA[800*200 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. bbb]]></content>
       <categories>
         <category>hexo</category>
       </categories>
