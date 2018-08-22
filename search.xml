@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试tags]]></title>
-    <url>%2F2018%2F08%2F22%2Ftexttags%2F</url>
-    <content type="text"><![CDATA[b ![](https://i.loli.net/2018/08/20/5b7a4211ae25b.jpg) bb b]]></content>
-      <categories>
-        <category>linux</category>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>tags</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[测试 tags]]></title>
     <url>%2F2018%2F08%2F22%2Ftext_tags%2F</url>
     <content type="text"><![CDATA[b bb b]]></content>
