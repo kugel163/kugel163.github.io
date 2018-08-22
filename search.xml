@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[分割线、单个区块、超链接]]></title>
+    <url>%2F2018%2F08%2F22%2Ffengexian_danqukuai_chaolianjie%2F</url>
+    <content type="text"><![CDATA[我在这里 有一种特别的样子 blogkugel 表格等 参照:cnblog]]></content>
+      <categories>
+        <category>linux</category>
+        <category>website</category>
+      </categories>
+      <tags>
+        <tag>fengexian/qukuai/chaolianjie</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[pic 800*200]]></title>
     <url>%2F2018%2F08%2F22%2Fpic_8002002%2F</url>
     <content type="text"><![CDATA[800*200 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. bbb]]></content>
